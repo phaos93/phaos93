@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Pedro Oliveira!
 - 👀 Amo tecnologia e gosto de estar sempre aprendendo coisas novas
-- 🌱 Já tenho noções e estou aprimorando meus conhecimentos em HTML, CSS, Javascript e Python.
+- 🌱 Desenvolvedor Web Full-Stack em formação na Cubos Academy | HTML, CSS, JavaScript, ReactJS, NodeJS, SQL
 
 ##
 
